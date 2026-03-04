@@ -20,8 +20,7 @@
 
 💻 Passionate about building scalable web applications  
 🤖 Built AI-powered Telegram Bot using Gemini + n8n  
-🌱 Currently learning Data Structures & Algorithms in C++  
-🔥 Founder of ASP.NET based BTE Result Portal  
+🌱 Currently learning Data Structures & Algorithms in java  
 🚀 Hackathon Participant  
 
 ---
@@ -65,17 +64,6 @@ Automates LinkedIn job scraping + AI scoring + Telegram alerts
 
 🍽 **Meal Management System (Flask + MySQL)**  
 
-📊 **BTE Result Portal (ASP.NET)**  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nandita1822&show_icons=true&theme=radical" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandita1822&layout=compact&theme=radical" height="165"/>
-</p>
 
 ---
 
@@ -86,12 +74,6 @@ Automates LinkedIn job scraping + AI scoring + Telegram alerts
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nandita1822/Nandita1822/output/github-contribution-grid-snake.svg"/>
-</p>
 
 # 🌟 Daily Quote
 
