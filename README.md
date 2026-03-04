@@ -32,8 +32,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
@@ -45,8 +43,6 @@
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet)
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 
@@ -76,9 +72,9 @@ Automates LinkedIn job scraping + AI scoring + Telegram alerts
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nandita1822&show_icons=true&theme=radical" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandita1822&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
@@ -86,7 +82,7 @@ Automates LinkedIn job scraping + AI scoring + Telegram alerts
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandita1822&theme=radical"/>
 </p>
 
 ---
